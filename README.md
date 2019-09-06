@@ -2,4 +2,4 @@
 
 With the dataset from Kaggle : Amazon Reviews for Sentiment Analysis
 
-The goal is to predict a review if it is positive or negative using machine learning algorithms.
+The goal is to predict if a review is positive or negative using machine learning algorithms.
